@@ -1,0 +1,185 @@
+{
+    "bot": {
+        "botyapimci": "598974473374400512",
+        "owner": "598974473374400512",
+        "prefix": ".",
+        "token": ".",
+        "BotStatus": "Wasley ❤️ Hesperos",
+        "BotFooter": "Hesperos ❤️ Wasley",
+        "guildVanityURL":"hesperos",
+        "iltifatsize": 170,
+        "cooldown": 3000
+    },
+    "penals": {
+        "warn": {
+            "staff": "988000291918086194",
+            "log": "988000605765271603"
+        },
+        "mute": {
+            "staff": "988000291918086194",
+            "roles": "988000371089764382",
+            "log": "988000602476924928",
+            "limit": 5
+        },
+        "voicemute": {
+            "staff": "988000291918086194",
+            "roles": "988000371089764382",
+            "log": "988000602476924928",
+            "limit": 5
+        },
+        "jail": {
+            "staff": "988000292534616106",
+            "roles": "988000374403252284",
+            "log": "988000604817338368",
+            "limit": 5
+        },
+        "reklam": {
+            "staff": "988000292534616106",
+            "roles": "988000375267291147",
+            "log": "988000607233249280",
+            "limit": 5
+        },
+        "ban": {
+            "staff": "988000294027817052",
+            "log": "988000603479343134",
+            "limit": 3
+        },
+        "transport": {
+            "staff": "988000291918086194"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "yetki": {
+            "yetkililer": "988000289011404881",
+            "ytchat": "988000533052809347",
+            "ytbotcommands": "988000533052809347",
+            "yetkilialim": "988000254177706015",
+            "partnerstaff": "988000294782787595",
+            "tektagyt": "988000278286569542",
+            "çifttagyt": "988000269444976641",
+            "keo": "988000263262576670",
+            "ceo": "988000265200349184",
+            "enaltytrol": "988000286230593566",
+            "yetkilirol2": "988000285265895424",
+            "yetkilirol3": "988000283328147456",
+            "yetkilirol4": "988000282363453450",
+            "yetkilirol5": "988000281411321876",
+            "yetkilirol6": "988000276457852978",
+            "yetkilirol7": "988000275409297418",
+            "yetkilirol8": "988000273572192266",
+            "yetkilirol9": "988000273572192266",
+            "yetkilirol10": "988000272544563240",
+            "yetkilirol11": "988000271714091069"
+    },
+    "channels": {
+        "rules": "988000504615436308",
+        "chat": "988000542892621824",
+        "voicechannel": "988000498172968970",
+        "botkomut": "988000546524909578",
+        "welcomechannel": "988000501486452766",
+        "toplantıKanalı":"988000496151330836"
+        
+    },
+    "roles": {
+        "vip": "988000326131019786",
+        "streamer": "988000399258706010",
+        "sponsor": "988000322347749377",
+        "giveaways": "988000389016195132",
+        "developer": "988000329863925772",
+        "designer": "988000329062817822",
+        "müzisyen": "988000328123293706",
+        "terapist": "988000300013064244",
+        "soruncozucu": "988000301518831666",
+        "boster": "966039209934733363",
+        "katıldı": "988000386126315530",
+        "team": "988000323283079198"
+    },
+     "logs": {
+        "taglog": "988000616448143360",
+        "rollog": "988000617849044992",
+        "isimlog": "988000613856063558",
+        "kayıtlog": "988000611314331678",
+        "messagelog": "988000612589396088",
+        "seslog": "988000615370195014"
+    },
+    "üye": {
+        "birhafta": "988000384314388490",
+        "biray": "988000383379066910",
+        "ucay": "988000382552788992",
+        "altiay": "988000381655191552",
+        "dokuzay": "988000379881021450",
+         "biryil": "988000331021549579"
+    },
+    "registration": {
+        "unregistered": "988000342824353832",
+        "man": ["988000336029564958", "988000337233346600","988000339213041687"],
+        "woman": ["988000333018050592", "988000334033059880","988000335148765294"],
+        "staff": "988000290588487721",
+        "GuilDTag": "✦",
+        "TagSymbol": "✧",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "988000342824353832",
+        "susoeciosnickname": "• Şüpheli",
+        "susoecioschannel": "988000501486452766",
+        "oneman": "988000336029564958",
+        "onewoman": "988000333018050592",
+        "minage": 13, 
+        "purchase": false    
+    },
+    "basvuru": {
+        "basvuruyapchannel": "988000537456812062",
+        "ilkytrolleri": ["988000289011404881", "988000286230593566","988000278286569542","988000290588487721"],
+        "endüsükytrol": "988000286230593566",
+        "successMessage": "**Hey Tebrikler Yetkili Oldun!**\n\n Sunucumuza Gidip Yetkililerin Uyması Gereken Görevleri Yaparsan Seviniriz\n Müsait İsen Seste Afk Bırakabilirsin \n chat durgun ise birilerini etiketleyim chatı canlandıra bilirsin \n Yetki Yükseltimleri Sunucudaki **invite,Ses/chat aktifliği,Saygı,Partner Kasma** vb Şeylere Bakılarak Yapılmaktadır \n Yetkimi Yapmazsam Yetkim Alınacak Vb Diye Korkmana Gerek Yok Yetkini Almıyoruz En Alt A İndiriyoruz Eğer Hiç Aktif Olmaz İsen Alıyoruz",
+        "deleteMessage": "Üzgünüm Başvurun Reddedildi!",
+        "staff": "988000299409088572",
+        "log": "988000539994370139",
+        "title": "Yetkili Başvuru Formu",
+        "color": "BLUE",
+        "description": "Sunucumuzda Yetkili Olmak İçin Birtakım Sorulara Cevap Vermen Gerekiyor! \n Aşağidaki **Başvur** Butonuna Basarak Başvuru İşlemi Başlatabilirsiniz \n\n ***DİKKAT*** : **Başvuru Sisteminin Boş Yere Kullanımı vb Şeylerde Sunucudan Ban Yeme Cezasına Kadar Ceza İşlemi Uygulanabilir**",
+        "sorular": ["Kayıt Yapma İşlemini Biliyormusun","Günde Kaç Saat Aktifsiniz", "Sunucumuzda Kaç Saat Aktif Olabilirsin","Partnerlik Yapmayı Biliyormusun","Daha Önce Farklı Bir Sunucuda Yetkili Oldunmu","Daha Önce Yetkili Olduğunuz Sunucuda Kaç Kişi Vardı","Belirtmek İstediğiniz Yetenekleriniz","Sunucu Kurallarımızı Okudunmu","Sunucu İçerisinde Üyelere Ve Yetkililere Nasıl Davranman Gerektiğini Biliyormusun","Eklemek İstediğiniz Bir Şey Var Mı? Varsa Ne?"],
+        "timeout": 2000
+    },
+    "Guild": {
+        "GuildID": "964229512629997588",
+        "GuilDName": "HESPEROS",
+        "GuildOwnerRole": ["988000258749509683","988000260372721687","988000264143376424","988000267091984424"],
+        "üstyönetim": ["988000260372721687","988000264143376424","988000267091984424","988000258749509683"],
+        "ortayönetim": ["988000271714091069","988000272544563240","988000273572192266","988000275409297418","988000276457852978"],
+        "altyönetim": ["988000281411321876","988000282363453450","988000283328147456","988000285265895424","988000286230593566"]
+    },
+
+
+    "emojis": {
+
+    "tada": "🎉",
+    "yes": "✅",
+    "no": "❌",
+        
+    "sifir": "<a:sifir:981639292642295928>",
+    "bir": "<a:bir:981639290142466078>",
+    "iki": "<a:iki:981639288271827024>",
+    "uc": "<a:uc:981639293690863677>",
+    "dort": "<a:dort:981639294936555601>",
+    "bes": "<a:bes:981639296517812224>",
+    "alti": "<a:alti:981639302670852126>",
+    "yedi": "<a:yedi:981639301605490718>",
+    "sekiz": "<a:sekiz:981639305174876200>",
+    "dokuz": "<a:dokuz:981639303975297054>",
+
+    "hg1": "<a:hg1:990497189056892948>",
+    "hg2": "<a:hg2:990497177312825385>",
+    "hg3": "",
+    "hg4": "<a:hg4:992550922205024277>",
+    "hg5": "",
+    "hg6": "<a:hg6:990497154957209670>",
+    "hg7": ""
+
+    }
+} 
